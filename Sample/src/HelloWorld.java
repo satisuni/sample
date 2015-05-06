@@ -11,13 +11,13 @@ public class HelloWorld {
 			int b=10;
 			System.out.print(a+b + "\n");
 			
-			String ss="hello world";
+			String ss="hello worlddsadas";
 			int index=ss.indexOf("lo");
 			System.out.print(index+ "\n");
 			Date date = new Date();
 		      String strDateFormat = "HH:mm:ss a";
 		      SimpleDateFormat sdf = new SimpleDateFormat(strDateFormat);
-		      System.out.println(sdf.format(date));
+		      System.out.println(sdf.format(date)); 
  
 					
 	}
